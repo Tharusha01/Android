@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "159129610416",
+    "firebase_url": "https://epillpod-a2354.firebaseio.com",
+    "project_id": "epillpod-a2354",
+    "storage_bucket": "epillpod-a2354.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159129610416:android:25e6230a5b526d69",
+        "android_client_info": {
+          "package_name": "com.inventio.e_pillpod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159129610416-6jc37nodf0q08ujfh42df3acl07io382.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inventio.e_pillpod",
+            "certificate_hash": "66147d3223a322d797c222d31f24685c96b2d5b3"
+          }
+        },
+        {
+          "client_id": "159129610416-jcf1cjdds9rqqe4htsru4an18aiubjap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDU5QP6Cei2Q3Dec5-n1TBqagqJzhQjnA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159129610416-jcf1cjdds9rqqe4htsru4an18aiubjap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
